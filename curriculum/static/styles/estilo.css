@@ -1,0 +1,57 @@
+body {
+    font-family: 'Sansita Swashed', cursive;
+    line-height: 1.6;
+    margin: 20px;
+    background: #17202A;
+}
+
+h1, h2 {
+    color: whitesmoke;
+}
+
+h2 {
+    border-bottom: 2px solid whitesmoke;
+    padding-bottom: 5px;
+    margin-top: 20px;
+}
+
+p {
+    color: whitesmoke;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    color: whitesmoke;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 50%;
+    width: 150px; 
+    height: 180px;
+    border: 3px solid white;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    color: whitesmoke;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
